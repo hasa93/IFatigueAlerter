@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">I Fatigue Alerter</string>
+    <string name="accessibility_service_description">I Fatigue Alerter</string>
+    <string name="title_activity_display_resol">Display RES</string>
+</resources>
